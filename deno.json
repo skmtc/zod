@@ -1,0 +1,10 @@
+{
+  "name": "@skmtc/zod",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "imports": {
+    "@skmtc/skmtc": "jsr:@skmtc/skmtc@0.0.4",
+    "lodash-es": "npm:lodash-es@4.17.21",
+    "ts-pattern": "npm:ts-pattern@5.1.1"
+  }
+}
